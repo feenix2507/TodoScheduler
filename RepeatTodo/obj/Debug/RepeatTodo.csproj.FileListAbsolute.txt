@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\RepeatTodo\RepeatTodo\obj\Debug\RepeatTodo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RepeatTodo\RepeatTodo\bin\Debug\RepeatTodo.exe.config
+C:\Users\user\source\repos\RepeatTodo\RepeatTodo\bin\Debug\RepeatTodo.exe
+C:\Users\user\source\repos\RepeatTodo\RepeatTodo\bin\Debug\RepeatTodo.pdb
+C:\Users\user\source\repos\RepeatTodo\RepeatTodo\obj\Debug\RepeatTodo.exe
+C:\Users\user\source\repos\RepeatTodo\RepeatTodo\obj\Debug\RepeatTodo.pdb
